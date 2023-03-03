@@ -15,7 +15,7 @@
     ·
     <a href="/docs/readme_it.md">Italiano</a>
   </p>
-  <p>
+  <p align="center">
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&theme=dark)](https://github.com/mgodll)
  
