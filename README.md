@@ -18,6 +18,8 @@
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&theme=radical)](https://github.com/mgodll)
  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mgodll&repo=Despliegue-y-gestion-de-contenedores-usando-la-herramienta-helm)](https://github.com/mgodll/Despliegue-y-gestion-de-contenedores-usando-la-herramienta-helm)
+ 
   <p>
     <h2> Connect with me: </h2>
     <a href="https://www.linkedin.com/in/mateo-toro-rodriguez-3799b624a/">
