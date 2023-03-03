@@ -5,7 +5,7 @@
       <img alt="Linkedin" width="50px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />
     </a>
     <a href="https://www.instagram.com/mgodll_99/">
-      <img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+      <img alt="Instagram" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
     </a>
   
 </p>
