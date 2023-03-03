@@ -5,6 +5,9 @@
   <p align="center">
   I am a young man passionate about next generation technologies, software development and telecommunications, my focus is in the area of telematics, even so I consider myself highly qualified for any development project.
   </p>
+  
+  <a href="https://github.com/mgodll/mgodll">
+    <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://contador-visitas-github.vercel.app/"/></a>
    
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
