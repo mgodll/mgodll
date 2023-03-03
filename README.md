@@ -13,7 +13,10 @@
 </p>
 
  <p align="center">
-    <font size = 1><a href="/docs/readme_fr.md">Français</a></font>
+   
+    fontsize: 7pt 
+   
+    <a href="/docs/readme_fr.md">Français</a>
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
     ·
