@@ -13,7 +13,7 @@
 </p>
 
  <p align="center">
-    <font size = 5> Ingrese el texto aquí </font>
+    <font size = 1> Ingrese el texto aquí </font>
     <a href="/docs/readme_fr.md">Français</a>
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
