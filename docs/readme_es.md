@@ -3,6 +3,10 @@
 </p>
 
   <p align="center">
+  Soy un joven apasionado por las tecnologias de proxima generacion, el desarrollo de software y las telecomunicaciones, mi enfoque es en el area de la telematica aun asi me considero altamente calificado para cualquier proyecto de desarrollo.
+  </p>
+
+  <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
     ·
     <a href="/docs/readme_es.md">Español</a>
