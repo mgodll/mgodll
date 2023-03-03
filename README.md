@@ -6,7 +6,7 @@
   I am a young man passionate about next generation technologies, software development and telecommunications, my focus is in the area of telematics, even so I consider myself highly qualified for any development project.
   </p>
   <p align="center">
-   ![](https://github.com/mgodll/?username=mgodll)
+   ![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=brightgreen)
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
