@@ -5,7 +5,9 @@
   <p align="center">
   I am a young man passionate about next generation technologies, software development and telecommunications, my focus is in the area of telematics, even so I consider myself highly qualified for any development project.
   </p>
-
+  
+  ![](https://komarev.com/ghpvc/?mgodll=your-github-mgodll&color=green)
+  
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
     ·
