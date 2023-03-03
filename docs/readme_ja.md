@@ -3,6 +3,10 @@
 </p>
 
   <p align="center">
+  私は次世代技術、ソフトウェア開発、電気通信に情熱を傾ける若者であり、テレマティクスの分野に焦点を当てていますが、あらゆる開発プロジェクトに適していると自負しています。
+  </p>
+
+  <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
     ·
     <a href="/docs/readme_es.md">Español</a>
