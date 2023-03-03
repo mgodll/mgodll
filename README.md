@@ -64,9 +64,8 @@
     <a href="https://www.mathworks.com/products/matlab.html">
     <img alt="Matlab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
     </a>
-    <a href="https://www.mathworks.com/products/matlab.html">
-    <img alt="Arduino" width="30px" src="![image](https://user-images.githubusercontent.com/113810538/222836480-3735b731-9c43-4f74-a30d-39a990ee1f51.png)
-" />
+    <a href="https://www.arduino.cc">
+    <img alt="Arduino" width="30px" src="https://w7.pngwing.com/pngs/358/405/png-transparent-arduino-computer-icons-computer-software-graphy-logo-miscellaneous-text-trademark.png" />
     </a>
   </p>
 <!--
