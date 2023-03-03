@@ -42,7 +42,7 @@
 
 #
 
-<p><img align="center" href="https://github.com/mgodll/Prometheus-grafana" src="https://github-readme-stats.vercel.app/api/pin/?username=mgodll&repo=Prometheus-grafana&show_icons=true&theme=dark" alt="mgodll" /></p>
+<p><img href="https://github.com/mgodll/Prometheus-grafana" src="https://github-readme-stats.vercel.app/api/pin/?username=mgodll&repo=Prometheus-grafana&show_icons=true&theme=dark" alt="mgodll" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&locale=en&show_icons=true&theme=dark" alt="mgodll" /></p>
 
