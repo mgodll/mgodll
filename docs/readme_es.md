@@ -1,13 +1,9 @@
+
+<h1 align="center">Hola 👋, Me llamo Mateo Toro</h1>
+<h3 align="center">Soy un joven apasionado por las tecnologias de proxima generacion, el desarrollo de software y las telecomunicaciones, mi enfoque es en el area de la telematica aun asi me considero altamente calificado para cualquier proyecto de desarrollo.</h3>
+
 <p align="center">
-<h1 align="center"> Hola, Soy Mateo 👋🔭 </h1>
-</p>
-
-  <p align="center">
-  Soy un joven apasionado por las tecnologias de proxima generacion, el desarrollo de software y las telecomunicaciones, mi enfoque es en el area de la telematica aun asi me considero altamente calificado para cualquier proyecto de desarrollo.
-  </p>
-
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français</a>
+    <a href="/docs/readme_fr.md">Français </a>
     ·
     <a href="/docs/readme_es.md">Español</a>
     ·
@@ -15,82 +11,32 @@
     ·
     <a href="/docs/readme_it.md">Italiano</a>
   </p>
- 
-   <p align="center">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&theme=dark)](https://github.com/mgodll)
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mgodll&repo=Prometheus-grafana&show_icons=true&theme=dark)](https://github.com/mgodll/Prometheus-grafana)
-  
-  </p>
-  <p>
-    <h2> Conectate conmigo: </h2>
-    <a href="https://www.linkedin.com/in/mateo-toro-rodriguez-3799b624a/">
-      <img alt="Linkedin" width="30px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />
-    </a>
-    <a href="https://www.instagram.com/mgodll_99/">
-      <img alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
-    </a>
-    <a href="https://www.facebook.com/MateoToroRodriguez">
-      <img alt="Facebook" width="30px" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/facebook_social_network_network_communication_internet_icon_192273.png" />
-    </a>
-  </p>
-  
-  <p>
-    <h3> Idiomas y Herramientas: </h3>
-    <a href="https://www.docker.com">
-      <img alt="Docker" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
-    </a>
-    <a href="https://www2.eii.uva.es/fund_inf/cpp/temas/1_introduccion/introduccion.html#:~:text=C%2B%2B%20es%20un%20lenguaje%20compilado,a%20objetos%20del%20lenguaje%20C.&text=C%2B%2B%20significaría%20incremento%20de%20C,operador%20%2B%2B%20con%20ese%20nombre.">
-    <img alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-    </a>
-    <a href="https://developer.android.com/kotlin?gclid=Cj0KCQiA0oagBhDHARIsAI-BbgeWEybkO6n_T2yeXAlKsVCdwb9dSe5RPe-e3tmmCQsPaaILUp75GWsaAnqnEALw_wcB&gclsrc=aw.ds&hl=es-419">
-    <img alt="kotlin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" />
-    </a>
-    <a href="https://www.java.com/es/">
-    <img alt="java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-    </a>
-    <a href="https://developer.android.com/studio?gclid=Cj0KCQiA0oagBhDHARIsAI-BbgcxQCdD6uASRJ2UcNvWebG-uK8aNc8OvdHNIacCr5pcwKJWgvP7fQUaAtSmEALw_wcB&gclsrc=aw.ds">
-    <img alt="android-studios" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
-    </a>
-    <a href="https://github.com">
-    <img alt="github" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-    </a>
-    <a href="https://about.gitlab.com">
-    <img alt="gitlab" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" />
-    </a>
-    <a href="https://www.mysql.com">
-    <img alt="Mysql" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
-    </a>
-    <a href="https://support.microsoft.com/es-es/office/access-sql-conceptos-básicos-vocabulario-y-sintaxis-444d0303-cde1-424e-9a74-e8dc3e460671#:~:text=las%20consultas%3A%20UNION-,¿Qué%20es%20SQL%3F,SQL%20para%20trabajar%20con%20datos.">
-    <img alt="Sql" width="30px" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" />
-    </a>
-    <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_amers-co_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624317&adgroup=115749712463&cq_cmp=12212624317&gclid=Cj0KCQiA0oagBhDHARIsAI-BbgdOc0v-sH_0As2Jt3FUn5tBk49JdXT5bIwPKom0DdhCO3-vcjJ40_kaAp0bEALw_wcB">
-    <img alt="MongoDB" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" />
-    </a>
-    <a href="https://www.mathworks.com/products/matlab.html">
-    <img alt="Matlab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
-    </a>
-    <a href="https://www.arduino.cc">
-    <img alt="Arduino" width="30px" src="https://w7.pngwing.com/pngs/358/405/png-transparent-arduino-computer-icons-computer-software-graphy-logo-miscellaneous-text-trademark.png" />
-    </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/HTML">
-    <img alt="Html" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" />
-    </a>
-    <a href="https://www.php.net/manual/es/intro-whatis.php">
-    <img alt="PHP" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" />
-    </a>
-    <a href="https://www.python.org">
-    <img alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-    </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-    <img alt="Javascript" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-    </a>
-    </a>
-    <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programación)">
-    <img alt="C#" width="30px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png" />
-    </a>
-    <a href="https://kubernetes.io/es/">
-    <img alt="Kubernets" width="30px" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" />
-    </a>
-  </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgodll&label=Profile%20views&color=0e75b6&style=flat" alt="mgodll" /> </p>
+
+<h3 align="left">Conectate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mateo-toro-rodriguez-3799b624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateo-toro-rodriguez-3799b624a" height="30" width="40" /></a>
+<a href="https://fb.com/mateotororodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mateotororodriguez" height="30" width="40" /></a>
+<a href="https://instagram.com/mgodll_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgodll_99" height="30" width="40" /></a>
+</a>
+</p>
+
+<h3 align="left">Idiomas y Herramientas:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
+<a href="https://github.com">
+<img alt="github" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+</a>
+<a href="https://about.gitlab.com">
+<img alt="gitlab" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" />
+</a>
+<a href="https://kubernetes.io/es/">
+<img alt="Kubernets" width="40px" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" />
+</a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&locale=es&show_icons=true&theme=dark" alt="mgodll" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgodll&show_icons=true&theme=dark&locale=es" alt="mgodll" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgodll&repo=Prometheus-grafana&show_icons=true&theme=dark" alt="mgodll" /></p>
