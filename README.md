@@ -49,8 +49,8 @@
     <a href="https://github.com">
     <img alt="github" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
     </a>
-    <a href="https://github.com">
-    <img alt="github" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+    <a href="https://about.gitlab.com">
+    <img alt="gitlab" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" />
     </a>
   </p>
 <!--
