@@ -17,7 +17,7 @@
   </p>
  
   <p>
-    Connect with me
+    <h2> Connect with me: </h2>
     <a href="https://www.linkedin.com/in/mateo-toro-rodriguez-3799b624a/">
       <img alt="Linkedin" width="30px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />
     </a>
