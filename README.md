@@ -37,8 +37,8 @@
     <a href="https://www2.eii.uva.es/fund_inf/cpp/temas/1_introduccion/introduccion.html#:~:text=C%2B%2B%20es%20un%20lenguaje%20compilado,a%20objetos%20del%20lenguaje%20C.&text=C%2B%2B%20significaría%20incremento%20de%20C,operador%20%2B%2B%20con%20ese%20nombre.">
       <img alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
     </a>
-    <a href="https://www.facebook.com/MateoToroRodriguez">
-      <img alt="Facebook" width="30px" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/facebook_social_network_network_communication_internet_icon_192273.png" />
+    <a href="https://www.java.com/es/">
+      <img alt="java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
     </a>
   </p>
 <!--
