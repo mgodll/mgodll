@@ -2,7 +2,7 @@
 </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/mateo-toro-rodriguez-3799b624a/">
-      <img alt="Linkedin" src="www.linkedin.com/in/mateo-toro-rodriguez" />
+      <img alt="Linkedin" src="https://png.pngtree.com/element_our/sm/20180301/sm_5a982744da73b.jpg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
