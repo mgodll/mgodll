@@ -3,6 +3,10 @@
 </p>
 
   <p align="center">
+  Sono un giovane appassionato di tecnologie di nuova generazione, sviluppo software e telecomunicazioni, il mio focus è nell'area della telematica, anche se mi considero altamente qualificato per qualsiasi progetto di sviluppo.
+  </p>
+
+  <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
     ·
     <a href="/docs/readme_es.md">Español</a>
