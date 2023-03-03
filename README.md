@@ -67,5 +67,11 @@
     <a href="https://www.arduino.cc">
     <img alt="Arduino" width="30px" src="https://w7.pngwing.com/pngs/358/405/png-transparent-arduino-computer-icons-computer-software-graphy-logo-miscellaneous-text-trademark.png" />
     </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+    <img alt="Html" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" />
+    </a>
+    <a href="https://www.php.net/manual/es/intro-whatis.php">
+    <img alt="PHP" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" />
+    </a>
   </p>
 <!--
