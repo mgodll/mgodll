@@ -13,8 +13,7 @@
 </p>
 
  <p align="center">
-   <font size = 1>
-    <a href="/docs/readme_fr.md"><font size = 1>Français</font></a>
+    <font size = 1><a href="/docs/readme_fr.md">Français</a></font>
     ·
     <a href="/docs/readme_cn.md">简体中文</a>
     ·
@@ -35,7 +34,6 @@
     <a href="/docs/readme_tr.md">Türkçe</a>
     .
     <a href="/docs/readme_np.md">नेपाली</a>
-   </font>
  </p>
 <!--
 **mgodll/mgodll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
