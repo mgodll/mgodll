@@ -2,7 +2,7 @@
 </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/mateo-toro-rodriguez-3799b624a/">
-      <img alt="Linkedin" src="https://png.pngtree.com/element_our/sm/20180301/sm_5a982744da73b.jpg" />
+      <img alt="Linkedin" src="https://w7.pngwing.com/pngs/12/861/png-transparent-computer-icons-github-markdown-computer-software-shortcut-professional-network-blue-angle-text-thumbnail.png" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
