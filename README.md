@@ -76,5 +76,8 @@
     <a href="https://www.python.org">
     <img alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
     </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <img alt="Javascript" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+    </a>
   </p>
 <!--
