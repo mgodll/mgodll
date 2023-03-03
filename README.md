@@ -7,7 +7,7 @@
   </p>
   
   <a href="https://github.com/mgodll/mgodll">
-    <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://contador-visitas-github.vercel.app/"/></a>
+    <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://mgodll.app/"/></a>
    
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
