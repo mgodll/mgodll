@@ -3,6 +3,10 @@
 </p>
 
   <p align="center">
+  Je suis un jeune homme passionné par les technologies de nouvelle génération, le développement de logiciels et les télécommunications, je me concentre sur le domaine de la télématique, même si je me considère hautement qualifié pour tout projet de développement.
+  </p>
+
+  <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
     ·
     <a href="/docs/readme_es.md">Español</a>
