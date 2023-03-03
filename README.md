@@ -16,7 +16,7 @@
     <a href="/docs/readme_it.md">Italiano</a>
   </p>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgodll)](https://github.com/mgodll/mgodll)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgodll)](https://github.com/mgodll)
  
   <p>
     <h2> Connect with me: </h2>
