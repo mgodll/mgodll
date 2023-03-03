@@ -10,6 +10,8 @@
     <a href="/docs/readme_ja.md">日本語</a>
     ·
     <a href="/docs/readme_it.md">Italiano</a>
+    ·
+    <a href="https://github.com/mgodll">English</a>
   </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgodll&label=Profile%20views&color=0e75b6&style=flat" alt="mgodll" /> </p>
