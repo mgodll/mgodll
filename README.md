@@ -46,8 +46,8 @@
         <a href="https://developer.android.com/studio?gclid=Cj0KCQiA0oagBhDHARIsAI-BbgcxQCdD6uASRJ2UcNvWebG-uK8aNc8OvdHNIacCr5pcwKJWgvP7fQUaAtSmEALw_wcB&gclsrc=aw.ds">
       <img alt="android-studios" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
     </a>
-        <a href="https://www.java.com/es/">
-      <img alt="java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+        <a href="https://github.com">
+      <img alt="github" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
     </a>
   </p>
 <!--
