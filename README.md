@@ -28,4 +28,17 @@
       <img alt="Facebook" width="30px" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/facebook_social_network_network_communication_internet_icon_192273.png" />
     </a>
   </p>
+  
+  <p>
+    <h3> Languages and Tools: </h3>
+    <a href="https://www.docker.com">
+      <img alt="Docker" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
+    </a>
+    <a href="https://www.instagram.com/mgodll_99/">
+      <img alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+    </a>
+    <a href="https://www.facebook.com/MateoToroRodriguez">
+      <img alt="Facebook" width="30px" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/facebook_social_network_network_communication_internet_icon_192273.png" />
+    </a>
+  </p>
 <!--
