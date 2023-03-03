@@ -79,5 +79,12 @@
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
     <img alt="Javascript" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
     </a>
+    </a>
+    <a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programación)">
+    <img alt="C#" width="30px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png" />
+    </a>
+    <a href="https://kubernetes.io/es/">
+    <img alt="Kubernets" width="30px" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" />
+    </a>
   </p>
 <!--
