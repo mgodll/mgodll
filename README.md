@@ -38,7 +38,7 @@
       <img alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
     </a>
     <a href="https://developer.android.com/kotlin?gclid=Cj0KCQiA0oagBhDHARIsAI-BbgeWEybkO6n_T2yeXAlKsVCdwb9dSe5RPe-e3tmmCQsPaaILUp75GWsaAnqnEALw_wcB&gclsrc=aw.ds&hl=es-419">
-      <img alt="kotlin" width="30px" src="https://blog.sosafeapp.com/content/images/2020/04/blog---mi-primera-app-en-Kotlin.png" />
+      <img alt="kotlin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" />
     </a>
         <a href="https://www.java.com/es/">
       <img alt="java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
