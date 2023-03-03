@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/mateo-toro-rodriguez-3799b624a/">
       <img alt="Linkedin" width="50px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://www.instagram.com/mgodll_99/">
+      <img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
     </a>
   
 </p>
