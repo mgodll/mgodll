@@ -17,6 +17,7 @@
 
 #
 
+<h3 align="left">About me</h3>
 <p align="left">
  • High capacity for learning easily, to listen carefully, analyze and propose ideas.
     
