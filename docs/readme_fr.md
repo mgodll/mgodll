@@ -17,6 +17,32 @@
 
 #
 
+<h3 align="left">sur moi: </h3>
+<p align="left">
+• Grande capacité d'apprendre facilement, d'écouter attentivement, d'analyser et de proposer des idées.
+    
+• Bonnes compétences en service à la clientèle et collaboration.
+    
+• L'esprit d'équipe.
+    
+• Passionné par les nouvelles technologies et motivé à apprendre de nouvelles choses.
+    
+• Connaissances en programmation sur les langages C, Python, JavaScript, PHP, HTML, MySQL et Kotlin.
+    
+• Gestion du système d'exploitation Ubuntu Linux.
+    
+• Connaissance du SDN, du routage IP, de la commutation, de l'IPv4, des configurations de serveur, de la gestion des routeurs et des commutateurs Cisco et Juniper, des machines virtuelles et des informations liées à l'informatique.
+    
+• Connaissance du fonctionnement Docker/conteneurs Kubernetes et Magma.
+    
+• Connaissances en gestion de stations d'épuration, avec approche automate et capteurs asynchrones.
+
+• Membre actif de la Defensa Civil Colombiana.
+
+</p>
+
+#
+
 <h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mateo-toro-rodriguez-3799b624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateo-toro-rodriguez-3799b624a" height="30" width="40" /></a>
