@@ -15,6 +15,33 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mgodll&label=Profile%20views&color=0e75b6&style=flat" alt="mgodll" /> </p>
 
+
+#
+
+<h3 align="left">私について: </h3>
+<p align="left">
+• 簡単に学び、注意深く耳を傾け、アイデアを分析し、提案する高い能力。
+    
+• 優れたカスタマー サービス スキルとコラボレーション。
+    
+• チームワーク精神。
+    
+• 新しい技術に情熱を持ち、新しいことを学ぶ意欲がある。
+    
+• C、Python、JavaScript、PHP、HTML、MySQL、および Kotlin 言語に関するプログラミングの知識。
+    
+• Ubuntu Linux オペレーティング システムの管理。
+    
+• SDN、IP ルーティング、スイッチング、IPv4、サーバー構成、Cisco および Juniper のルーターとスイッチの管理、仮想マシンおよび IT 関連の情報に関する知識。
+    
+• Docker/コンテナーの操作知識 Kubernetes および Magma。
+    
+• PLC および非同期センサー アプローチを使用した処理プラントの管理に関する知識。
+    
+• Defensa Civil Colombiana のアクティブなメンバー。
+
+</p>
+
 #
 
 <h3 align="left"> 私とつながる:</h3>
