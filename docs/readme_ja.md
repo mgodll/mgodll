@@ -42,6 +42,6 @@
 
 #
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&locale=en&show_icons=true&theme=dark" alt="mgodll" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&locale=ja&show_icons=true&theme=dark" alt="mgodll" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgodll&show_icons=true&theme=dark" alt="mgodll" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgodll&show_icons=true&theme=dark&locale=ja" alt="mgodll" /></p>
