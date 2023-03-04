@@ -11,9 +11,24 @@
     <a href="/docs/readme_it.md">Italiano</a>
     ·
     <a href="https://github.com/mgodll">English</a>
-  </p>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mgodll&label=Profile%20views&color=0e75b6&style=flat" alt="mgodll" /> </p>
+
+#
+
+<p align="left">
+ • High capacity for learning easily, to listen carefully, analyze and propose ideas.
+ • Good customer service skills and collaboration.
+ • Team work spirit.
+ • Passionate for new technologies, and motivated about learning new things.
+ • Programming knowledge on C, Python, JavaScript, PHP, HTML, MySQL and Kotlin languages.
+ • Management of Ubuntu Linux operating system.
+ • Knowledge on SDN, IP routing, switching, IPv4, server configurations, Cisco and Juniper routers and switches management, Virtual Machines and IT related information.
+ • Docker/containers operation knowledge Kubernetes and Magma.
+ • Knowledge in management of treatment plants, with PLC and asynchronous sensors approach.
+ • Active member of the Defensa Civil Colombiana.
+</p>
 
 #
 
