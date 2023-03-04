@@ -43,7 +43,11 @@
 
 #
 
+<p align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mgodll&theme=onedark)](https://github.com/mgodll)
+
+</p>
 
 #
 
