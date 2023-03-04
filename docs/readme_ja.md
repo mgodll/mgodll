@@ -18,6 +18,14 @@
 
 #
 
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mgodll&theme=onedark)](https://github.com/mgodll)
+
+</p>
+
+#
+
 <h3 align="left">私について: </h3>
 <p align="left">
 • 簡単に学び、注意深く耳を傾け、アイデアを分析し、提案する高い能力。
