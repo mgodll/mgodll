@@ -79,3 +79,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&locale=fr&show_icons=true&theme=dark" alt="mgodll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgodll&show_icons=true&theme=dark&locale=fr" alt="mgodll" /></p>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21rzwevyvmvu4njst2etzorrq&width=900&count=3)
