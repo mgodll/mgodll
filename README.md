@@ -86,8 +86,6 @@
 
 - 🎓 Telematics Engineering — Universidad del Tolima
 - 🧪 Red Hat Linux Basics — Cisco Networking Academy
-- ☁️ Cloud Fundamentals — Google Cloud Training
-- 🧠 Cognitive Automation for Telco — Coursera
 
 ---
 
@@ -116,9 +114,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mgodll/mgodll/output/github-contribution-grid-snake.svg" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mgodll&label=Profile+views&color=blueviolet&style=flat" />
