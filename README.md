@@ -4,10 +4,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="Mateo Toro's GitHub Page">
+  <meta name="author" content="Mateo Toro">
   <title>Mateo Toro</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
   <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       font-family: 'Poppins', sans-serif;
       background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
@@ -18,7 +25,7 @@
 
     header {
       text-align: center;
-      padding: 50px 20px 20px;
+      padding: 60px 20px 30px;
     }
 
     h1 {
@@ -26,10 +33,20 @@
       margin-bottom: 10px;
     }
 
+    h2 {
+      text-align: center;
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
     h3 {
       font-weight: 300;
       max-width: 800px;
       margin: auto;
+    }
+
+    section {
+      animation: fadeIn 1s ease-in;
     }
 
     .lang-links,
@@ -45,10 +62,15 @@
       box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
     }
 
+    .lang-links {
+      text-align: center;
+    }
+
     .lang-links a {
       color: #58a6ff;
       margin: 0 10px;
       text-decoration: none;
+      font-weight: 500;
     }
 
     .about ul {
@@ -61,22 +83,51 @@
       margin-right: 10px;
     }
 
+    .socials {
+      text-align: center;
+    }
+
     .socials a {
-      margin-right: 15px;
+      margin: 0 10px;
     }
 
     .socials img {
       width: 40px;
       height: 40px;
+      transition: transform 0.3s;
+    }
+
+    .socials img:hover {
+      transform: scale(1.2);
+    }
+
+    .tools {
+      text-align: center;
     }
 
     .tools img {
       margin: 10px;
+      transition: transform 0.3s;
+    }
+
+    .tools img:hover {
+      transform: rotate(10deg);
     }
 
     .lottie {
       text-align: center;
       margin: 20px 0;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
   </style>
 </head>
@@ -142,8 +193,8 @@
   <section class="stats">
     <h2>GitHub Stats</h2>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&theme=dark" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgodll&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgodll&theme=dark" alt="GitHub Streak Stats" />
     </p>
   </section>
 </body>
