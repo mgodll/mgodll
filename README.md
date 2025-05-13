@@ -68,10 +68,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgodll&theme=dark" alt="Mateo's GitHub Streak" />
 </p>
 
----
-
-## ✨ Animation
-
-<p align="center">
-  <img src="https://assets2.lottiefiles.com/packages/lf20_qp1q7mct.json" alt="Animation not supported in markdown, please view on the web page." width="300" />
-</p>
