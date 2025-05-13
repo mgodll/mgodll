@@ -1,85 +1,122 @@
-<h1 align="center">こんにちは。Mateo 👋</h1>
-<h3 align="center">私は次世代技術、ソフトウェア開発、電気通信に情熱を傾ける若者であり、テレマティクスの分野に焦点を当てていますが、あらゆる開発プロジェクトに適していると自負しています。</h3>
+<h1 align="center">👋 こんにちは、私はMateo Toroです</h1>
 
 <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="https://github.com/mgodll">English</a>
-  </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mgodll&label=Profile%20views&color=0e75b6&style=flat" alt="mgodll" /> </p>
-
-
-#
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=58A6FF&center=true&vCenter=true&lines=テレマティクス+エンジニア+%7C+開発+愛好者;Linux+愛好者+%7C+フルスタック+探索者;常に学習中+🚀" />
+</p>
 
 <p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mgodll&theme=onedark)](https://github.com/mgodll)
-
+  <em>私は次世代技術、ソフトウェア開発、そして通信に情熱を持っています。<br>
+  私の焦点はテレマティクスですが、あらゆる開発プロジェクトにオープンです。</em>
 </p>
 
-#
-
-<h3 align="left">私について: </h3>
-<p align="left">
-• 簡単に学び、注意深く耳を傾け、アイデアを分析し、提案する高い能力。
-    
-• 優れたカスタマー サービス スキルとコラボレーション。
-    
-• チームワーク精神。
-    
-• 新しい技術に情熱を持ち、新しいことを学ぶ意欲がある。
-    
-• C、Python、JavaScript、PHP、HTML、MySQL、および Kotlin 言語に関するプログラミングの知識。
-    
-• Ubuntu Linux オペレーティング システムの管理。
-    
-• SDN、IP ルーティング、スイッチング、IPv4、サーバー構成、Cisco および Juniper のルーターとスイッチの管理、仮想マシンおよび IT 関連の情報に関する知識。
-    
-• Docker/コンテナーの操作知識 Kubernetes および Magma。
-    
-• PLC および非同期センサー アプローチを使用した処理プラントの管理に関する知識。
-    
-• Defensa Civil Colombiana のアクティブなメンバー。
-
+<p align="center">
+  🌍 <a href="/docs/readme_fr.md">フランス語</a> · 
+  <a href="/docs/readme_es.md">スペイン語</a> · 
+  <a href="/docs/readme_ja.md">日本語</a> · 
+  <a href="/docs/readme_it.md">イタリア語</a> · 
+  <a href="https://github.com/mgodll">英語</a>
 </p>
 
-#
+---
 
-<h3 align="left"> 私とつながる:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mateo-toro-rodriguez-3799b624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateo-toro-rodriguez-3799b624a" height="30" width="40" /></a>
-<a href="https://fb.com/mateotororodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mateotororodriguez" height="30" width="40" /></a>
-<a href="https://instagram.com/mgodll_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgodll_99" height="30" width="40" /></a>
-</a>
+## 🔎 自己紹介
+
+- 🚀 新しいことを学ぶのが速く、チームプレーヤー  
+- 👨‍💻 新しい技術に情熱を持っている  
+- 🔐 DevOps、ネットワーク、サーバー、セキュリティに興味がある  
+- 🌐 C、Python、JS、PHP、HTML、MySQL、Kotlinに堪能  
+- 🐧 Ubuntu Linuxの上級ユーザー  
+- 📡 SDN、ルーティング、Cisco/Juniperの経験  
+- 📦 Docker、Kubernetes、Magma、仮想環境に関する知識  
+- ⚙️ PLCおよび産業オートメーションの知識  
+- 🛡️ コロンビア市民防衛隊に積極的に参加  
+- 🌍 コロンビアに拠点を置いています 🇨🇴  
+
+---
+
+## 🎯 現在取り組んでいること
+
+- 🚧 Magma Coreを使ってテレコムインフラを自動化中  
+- ☁️ オンプレミスのサービスをハイブリッドクラウドソリューションに移行中  
+- 📊 PythonとGrafanaを使ってネットワークのKPIダッシュボードを作成中  
+- 🧠 学んでいる技術: Rust、Terraform、Ansible
+
+---
+
+## 🏆 GitHubの統計
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&theme=radical&border_radius=10" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mgodll&theme=radical&border_radius=10" height="180"/>
 </p>
 
-#
-
-<h3 align="left"> 言語とツール:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
-<a href="https://github.com">
-<img alt="github" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-</a>
-<a href="https://about.gitlab.com">
-<img alt="gitlab" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" />
-</a>
-<a href="https://kubernetes.io/es/">
-<img alt="Kubernets" width="40px" src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" />
-</a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgodll&theme=tokyonight" />
 </p>
 
-#
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&locale=ja&show_icons=true&theme=dark" alt="mgodll" /></p>
+## 🧰 技術スタックとツール
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgodll&show_icons=true&theme=dark&locale=ja" alt="mgodll" /></p>
-<!---
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21rzwevyvmvu4njst2etzorrq&width=900&count=3)
--->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+</p>
+
+---
+
+## 🧩 特集プロジェクト
+
+| プロジェクト | 説明 | スタック |
+|--------|-------------|-------|
+| **📡 Telestat ダッシュボード** | テレコム指標のリアルタイムテレメトリ | Python, JS, Grafana |
+| **🛰️ SDN コントローララボ** | OVS + Ryuを使った仮想ラボ | Linux, Mininet |
+| **⚙️ PLC SCADA シミュレータ** | Modbusを使ったオートメーションシナリオ | C, Python |
+| **🌐 RTCC ポータル** | リモート監視のための安全なアクセスポイント | HTML, PHP, Nginx |
+
+---
+
+## 🎓 教育 & 認定資格
+
+- 🎓 テレマティクス工学 — トリマ大学
+- 🧪 Red Hat Linux 基礎 — Cisco ネットワーキング アカデミー
+
+---
+
+## 🌐 連絡先
+
+<p align="center">
+  <a href="https://linkedin.com/in/mateo-toro-rodriguez-3799b624a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://fb.com/mateotororodriguez">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mgodll_99">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ 面白い事実
+
+- 🔭 仮想ネットワークを構築してテストするのが好き  
+- 🎮 レトロゲームのコレクター（SNESファン！）  
+- 🧗 アウトドア探索とボランティア活動が好き  
+- 📚 現在読んでいる本: *The Phoenix Project*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mgodll&label=プロフィール+ビュー&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/mgodll?label=フォロワー&style=social" />
+</p>
+
+---
