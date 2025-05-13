@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Mateo Toro</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=58A6FF&center=true&vCenter=true&lines=IIIIIIIIngeniero+en+Télématica+%7C+Apasionado+por+Dev;Amante+de+Linux+%7C+Explorador+Fullstack;Siempre+aprendiendo+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=58A6FF&center=true&vCenter=true&lines=IIIIIIIIIIIIngeniero+en+Télématica+%7C+Apasionado+por+Dev;Amante+de+Linux+%7C+Explorador+Fullstack;Siempre+aprendiendo+🚀" />
 </p>
 
 <p align="center">
