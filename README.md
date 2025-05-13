@@ -1,94 +1,151 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Mateo Toro</h1>
-<h3 align="center">
-  Passionate about next-gen technologies, software development, and telecommunications.<br>
-  Focused on the telematics field, but highly capable of adapting to any development project.
-</h3>
+<!DOCTYPE html>
+<html lang="en">
 
-<!-- Language Selector -->
-<p align="center">
-  <a href="/docs/readme_fr.md">Français</a> ·
-  <a href="/docs/readme_es.md">Español</a> ·
-  <a href="/docs/readme_ja.md">日本語</a> ·
-  <a href="/docs/readme_it.md">Italiano</a> ·
-  <a href="https://github.com/mgodll">English</a>
-</p>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mateo Toro</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mgodll&label=Profile%20views&color=0e75b6&style=flat" alt="mgodll" />
-</p>
+    header {
+      text-align: center;
+      padding: 50px 20px 20px;
+    }
 
-<hr>
+    h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+    }
 
-<!-- About Me -->
-<h3>About Me</h3>
-<ul>
-  <li>Quick learner with strong analytical skills.</li>
-  <li>Excellent customer service and collaboration mindset.</li>
-  <li>Team player with high adaptability.</li>
-  <li>Always curious about new technologies and motivated to learn.</li>
-  <li>Proficient in C, Python, JavaScript, PHP, HTML, MySQL, Kotlin.</li>
-  <li>Experienced with Ubuntu Linux and server environments.</li>
-  <li>Knowledgeable in SDN, IP routing, switching, server configs, Cisco & Juniper devices.</li>
-  <li>Experience with Docker, Kubernetes, Magma.</li>
-  <li>Familiar with PLCs, sensors, and treatment plant control systems.</li>
-  <li>Active member of Defensa Civil Colombiana.</li>
-</ul>
+    h3 {
+      font-weight: 300;
+      max-width: 800px;
+      margin: auto;
+    }
 
-<hr>
+    .lang-links,
+    .stats,
+    .about,
+    .connect,
+    .tools {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.05);
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    }
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mgodll&theme=onedark" alt="GitHub Trophies" />
-</p>
+    .lang-links a {
+      color: #58a6ff;
+      margin: 0 10px;
+      text-decoration: none;
+    }
 
-<hr>
+    .about ul {
+      list-style: none;
+      padding: 0;
+    }
 
-<!-- Social Links -->
-<h3>Connect with Me</h3>
-<p>
-  <a href="https://linkedin.com/in/mateo-toro-rodriguez-3799b624a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="https://fb.com/mateotororodriguez" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30"/>
-  </a>
-  <a href="https://instagram.com/mgodll_99" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
-  </a>
-</p>
+    .about ul li::before {
+      content: '🚀';
+      margin-right: 10px;
+    }
 
-<hr>
+    .socials a {
+      margin-right: 15px;
+    }
 
-<!-- Languages and Tools -->
-<h3>Languages and Tools</h3>
-<p>
-  <!-- Ejemplos - puedes reducir si es demasiado largo -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  <!-- Agrega más íconos como prefieras -->
-</p>
+    .socials img {
+      width: 40px;
+      height: 40px;
+    }
 
-<hr>
+    .tools img {
+      margin: 10px;
+    }
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+    .lottie {
+      text-align: center;
+      margin: 20px 0;
+    }
+  </style>
+</head>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgodll&theme=dark" alt="GitHub Streak" />
-</p>
+<body>
+  <header>
+    <h1>Hi 👋, I'm Mateo Toro</h1>
+    <h3>I am passionate about next-gen technologies, software development and telecommunications. My focus is telematics, but I'm open to all dev projects.</h3>
+    <div class="lang-links">
+      <a href="/docs/readme_fr.md">Français</a>
+      ·
+      <a href="/docs/readme_es.md">Español</a>
+      ·
+      <a href="/docs/readme_ja.md">日本語</a>
+      ·
+      <a href="/docs/readme_it.md">Italiano</a>
+      ·
+      <a href="https://github.com/mgodll">English</a>
+    </div>
+    <div class="lottie">
+      <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_qp1q7mct.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+    </div>
+  </header>
 
-<!-- Optional: Spotify -->
-<!--
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21rzwevyvmvu4njst2etzorrq&width=900&count=3" alt="Spotify Recently Played" />
-</p>
--->
+  <section class="about">
+    <h2>About Me</h2>
+    <ul>
+      <li>Quick learner and team player</li>
+      <li>Customer-oriented and proactive</li>
+      <li>Passionate about new technologies</li>
+      <li>Fluent in C, Python, JS, PHP, HTML, MySQL, Kotlin</li>
+      <li>Ubuntu Linux user</li>
+      <li>Experienced with SDN, routing, servers, Cisco/Juniper</li>
+      <li>Docker, Kubernetes, Magma, VMs</li>
+      <li>PLC & industrial automation knowledge</li>
+      <li>Active in Defensa Civil Colombiana</li>
+    </ul>
+  </section>
+
+  <section class="connect">
+    <h2>Connect with Me</h2>
+    <div class="socials">
+      <a href="https://linkedin.com/in/mateo-toro-rodriguez-3799b624a" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"></a>
+      <a href="https://fb.com/mateotororodriguez" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"></a>
+      <a href="https://instagram.com/mgodll_99" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram"></a>
+    </div>
+  </section>
+
+  <section class="tools">
+    <h2>Languages and Tools</h2>
+    <p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+    </p>
+  </section>
+
+  <section class="stats">
+    <h2>GitHub Stats</h2>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mgodll&show_icons=true&theme=dark" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgodll&theme=dark" />
+    </p>
+  </section>
+</body>
+
+</html>
